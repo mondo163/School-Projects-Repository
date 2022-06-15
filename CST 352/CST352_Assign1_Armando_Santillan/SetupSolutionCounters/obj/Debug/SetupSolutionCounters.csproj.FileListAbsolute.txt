@@ -1,0 +1,8 @@
+D:\Repositories\CST 352\CST352_Assign1_Armando_Santillan\SetupSolutionCounters\bin\Debug\SetupSolutionCounters.exe.config
+D:\Repositories\CST 352\CST352_Assign1_Armando_Santillan\SetupSolutionCounters\bin\Debug\SetupSolutionCounters.exe
+D:\Repositories\CST 352\CST352_Assign1_Armando_Santillan\SetupSolutionCounters\bin\Debug\SetupSolutionCounters.pdb
+D:\Repositories\CST 352\CST352_Assign1_Armando_Santillan\SetupSolutionCounters\obj\Debug\SetupSolutionCounters.csproj.AssemblyReference.cache
+D:\Repositories\CST 352\CST352_Assign1_Armando_Santillan\SetupSolutionCounters\obj\Debug\SetupSolutionCounters.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\CST 352\CST352_Assign1_Armando_Santillan\SetupSolutionCounters\obj\Debug\SetupSolutionCounters.csproj.CoreCompileInputs.cache
+D:\Repositories\CST 352\CST352_Assign1_Armando_Santillan\SetupSolutionCounters\obj\Debug\SetupSolutionCounters.exe
+D:\Repositories\CST 352\CST352_Assign1_Armando_Santillan\SetupSolutionCounters\obj\Debug\SetupSolutionCounters.pdb

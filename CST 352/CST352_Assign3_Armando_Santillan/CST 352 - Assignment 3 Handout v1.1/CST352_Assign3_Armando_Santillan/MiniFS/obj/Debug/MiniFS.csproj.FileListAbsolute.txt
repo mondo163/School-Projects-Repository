@@ -1,0 +1,22 @@
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\bin\Debug\MiniFS.exe.config
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\bin\Debug\MiniFS.exe
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\bin\Debug\MiniFS.pdb
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\bin\Debug\SimpleFileSystem.dll
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\bin\Debug\SimpleFileSystem.pdb
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\obj\Debug\MiniFS.csproj.AssemblyReference.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\obj\Debug\MiniFS.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\obj\Debug\MiniFS.csproj.CoreCompileInputs.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\obj\Debug\MiniFS.csproj.CopyComplete
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\obj\Debug\MiniFS.exe
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\MiniFS\obj\Debug\MiniFS.pdb
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\bin\Debug\MiniFS.exe.config
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\bin\Debug\MiniFS.exe
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\bin\Debug\MiniFS.pdb
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\bin\Debug\SimpleFileSystem.dll
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\bin\Debug\SimpleFileSystem.pdb
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\obj\Debug\MiniFS.csproj.AssemblyReference.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\obj\Debug\MiniFS.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\obj\Debug\MiniFS.csproj.CoreCompileInputs.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\obj\Debug\MiniFS.csproj.CopyComplete
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\obj\Debug\MiniFS.exe
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\MiniFS\obj\Debug\MiniFS.pdb

@@ -1,0 +1,10 @@
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\bin\Debug\SimpleShell.exe.config
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\bin\Debug\SimpleShell.exe
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\bin\Debug\SimpleShell.pdb
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\bin\Debug\SimpleFileSystem.dll
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\obj\Debug\SimpleShell.csproj.AssemblyReference.cache
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\obj\Debug\SimpleShell.csproj.SuggestedBindingRedirects.cache
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\obj\Debug\SimpleShell.csproj.CoreCompileInputs.cache
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\obj\Debug\SimpleShell.csproj.CopyComplete
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\obj\Debug\SimpleShell.exe
+D:\Repositories\CST 352\CST352_Assign4_Armando_Santillan\CST 352 - Assignment 4 Handout\SimpleShell\obj\Debug\SimpleShell.pdb

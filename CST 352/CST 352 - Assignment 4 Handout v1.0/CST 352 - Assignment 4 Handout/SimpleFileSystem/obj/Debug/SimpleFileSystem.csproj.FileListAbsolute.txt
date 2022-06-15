@@ -1,0 +1,18 @@
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\SimpleFileSystem\bin\Debug\SimpleFileSystem.dll
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\SimpleFileSystem\bin\Debug\SimpleFileSystem.pdb
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\SimpleFileSystem\obj\Debug\SimpleFileSystem.csproj.AssemblyReference.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\SimpleFileSystem\obj\Debug\SimpleFileSystem.csproj.CoreCompileInputs.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\SimpleFileSystem\obj\Debug\SimpleFileSystem.dll
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST 352 - Assignment 3 Handout\SimpleFileSystem\obj\Debug\SimpleFileSystem.pdb
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\SimpleFileSystem\bin\Debug\SimpleFileSystem.dll
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\SimpleFileSystem\bin\Debug\SimpleFileSystem.pdb
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\SimpleFileSystem\obj\Debug\SimpleFileSystem.csproj.AssemblyReference.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\SimpleFileSystem\obj\Debug\SimpleFileSystem.csproj.CoreCompileInputs.cache
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\SimpleFileSystem\obj\Debug\SimpleFileSystem.dll
+D:\Repositories\CST 352\CST352_Assign3_Armando_Santillan\CST 352 - Assignment 3 Handout v1.1\CST352_Assign3_Armando_Santillan\SimpleFileSystem\obj\Debug\SimpleFileSystem.pdb
+D:\Repositories\CST 352\CST 352 - Assignment 4 Handout v1.0\CST 352 - Assignment 4 Handout\SimpleFileSystem\bin\Debug\SimpleFileSystem.dll
+D:\Repositories\CST 352\CST 352 - Assignment 4 Handout v1.0\CST 352 - Assignment 4 Handout\SimpleFileSystem\bin\Debug\SimpleFileSystem.pdb
+D:\Repositories\CST 352\CST 352 - Assignment 4 Handout v1.0\CST 352 - Assignment 4 Handout\SimpleFileSystem\obj\Debug\SimpleFileSystem.csproj.AssemblyReference.cache
+D:\Repositories\CST 352\CST 352 - Assignment 4 Handout v1.0\CST 352 - Assignment 4 Handout\SimpleFileSystem\obj\Debug\SimpleFileSystem.csproj.CoreCompileInputs.cache
+D:\Repositories\CST 352\CST 352 - Assignment 4 Handout v1.0\CST 352 - Assignment 4 Handout\SimpleFileSystem\obj\Debug\SimpleFileSystem.dll
+D:\Repositories\CST 352\CST 352 - Assignment 4 Handout v1.0\CST 352 - Assignment 4 Handout\SimpleFileSystem\obj\Debug\SimpleFileSystem.pdb
